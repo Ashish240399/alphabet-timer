@@ -20,11 +20,13 @@
   .App{
     width:90vw;
     margin: auto;
+    margin-top: 10px;
   }
 }
 @media only screen and (min-width:321px) and (max-width:520px){
   .App{
     width:90vw;
     margin: auto;
+    margin-top: 10px;
   }
 }
