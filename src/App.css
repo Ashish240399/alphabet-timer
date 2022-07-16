@@ -15,3 +15,16 @@
   align-items: center;
   justify-content: center;
 }
+
+@media only screen and (min-width:0px) and (max-width:320px){
+  .App{
+    width:95vw;
+    margin: auto;
+  }
+}
+@media only screen and (min-width:321px) and (max-width:520px){
+  .App{
+    width:95vw;
+    margin: auto;
+  }
+}
